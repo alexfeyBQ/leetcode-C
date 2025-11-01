@@ -26,7 +26,7 @@ I just started solving problems on LeetCode. This repository is meant to **docum
 ## Links
 
 - LeetCode Profile: [alexfeybq](https://leetcode.com/u/alexfeybq)
-- GitHub Repository: []
+- GitHub Repository: [leetcode-C](https://github.com/alexfeyBQ/leetcode-C)
 
 ## Solved Problems
   
