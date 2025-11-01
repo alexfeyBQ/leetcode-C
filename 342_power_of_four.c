@@ -1,7 +1,5 @@
-// Problème : 342. Power of Four
-// Lien : https://leetcode.com/problems/power-of-four/
-// Langage : C
-// Approche : Continuer à diviser n par 4 jusqu'à ce que nous atteignons 1
+// Problem: 342. Power of Four
+// Link: https://leetcode.com/problems/power-of-four/
 
 bool isPowerOfFour(int n)
 {
