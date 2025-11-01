@@ -1,4 +1,4 @@
-# LeetCode Solutions (C)
+# LeetCode (C)
 
 Bienvenue sur mon repo LeetCode !  
 
