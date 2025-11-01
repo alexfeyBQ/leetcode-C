@@ -20,7 +20,6 @@ I just started solving problems on LeetCode. This repository is meant to **docum
 
 ## Statistics (manual update)
 - Problems solved: 2
-- Average difficulty: Beginner
 - Language: C
 
 ## Solved Problems
