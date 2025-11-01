@@ -1,7 +1,6 @@
 // Problem: 258. Add Digits
 // Difficulty: Easy
 // Link: https://leetcode.com/problems/add-digits/
-// Approach: String-based / arithmetic approach
 
 // String-based approach
 int addDigits(int num)
