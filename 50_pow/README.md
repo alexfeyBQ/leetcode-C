@@ -1,4 +1,4 @@
-**Using Exponentiation by Squaring in C**
+**50. Pow(x, n) - Using Exponentiation by Squaring in C**
 # Intuition
 Multiplying `x` by itself `n` times is slow and will **time out for large `n`**.  
 We use **exponentiation by squaring** to reduce the number of multiplications by exploiting the properties of even and odd exponents.
