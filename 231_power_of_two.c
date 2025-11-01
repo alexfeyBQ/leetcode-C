@@ -1,5 +1,6 @@
 // Problem: 231. Power of Two
 // Link: https://leetcode.com/problems/power-of-two/
+// Approach: Divide n by 2 until we reach 1
 
 bool isPowerOfTwo(int n)
 {
