@@ -2,7 +2,7 @@
 
 Welcome to my LeetCode repository!  
 
-I just started solving problems on LeetCode. This repository is meant to **document my solutions in C**, track my progress, and improve my problem-solving skills. 
+I just started solving problems on LeetCode. This repository is meant to **document my solutions in C**, track my progress, and improve my problem-solving skills.
 
 ## Repository Structure
 - `.c` files: each file contains a solution to a LeetCode problem
@@ -22,6 +22,11 @@ I just started solving problems on LeetCode. This repository is meant to **docum
 - Repository started: 2025-11-01
 - Problems solved: 2
 - Language: C
+
+## Links
+
+- LeetCode Profile: [alexfeybq](https://leetcode.com/u/alexfeybq)
+- GitHub Repository: []
 
 ## Solved Problems
   
