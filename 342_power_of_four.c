@@ -1,4 +1,5 @@
 // Problem: 342. Power of Four
+// Difficulty: Easy
 // Link: https://leetcode.com/problems/power-of-four/
 // Approach: Divide n by 4 until we reach 1
 
