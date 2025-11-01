@@ -1,3 +1,7 @@
+// Problem: 50. Pow(x, n)
+// Difficulty: Medium
+// Link: https://leetcode.com/problems/powx-n/
+
 double myPow(double x, int n)
 {
     double X = 1.0;
