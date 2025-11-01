@@ -1,4 +1,4 @@
-**258. Add Digits - Repeated Digit Summation Approach**
+**258. Add Digits - Repeated Digit Summation Approach in C**
 # Intuition
 To add the digits of an integer, we first convert it into a string. This allows us to access each digit individually as a character. We then sum the digits, and if the resulting sum has more than one digit, we repeat the process until we are left with a single digit. This single digit is the digital root of the original number.
 
