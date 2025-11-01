@@ -1,7 +1,5 @@
-// Problème : 231. Power of Two
-// Lien : https://leetcode.com/problems/power-of-two/
-// Langage : C
-// Approche : Continuer à diviser n par 2 jusqu'à ce que nous atteignons 1
+// Problem: 231. Power of Two
+// Link: https://leetcode.com/problems/power-of-two/
 
 bool isPowerOfTwo(int n)
 {
