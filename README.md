@@ -7,6 +7,12 @@ I just started solving problems on LeetCode. This repository is meant to **docum
 ## Repository Structure
 - `.c` files: each file contains a solution to a LeetCode problem
 
+## Notes on the `.c` files
+- Each `.c` file contains **only the solution function(s)** for the problem.
+- They **do not include a `main()` function** or standalone test code.
+- To run or test a solution, you need to write your own `main()` or use the LeetCode online judge.
+
+
 ## Goals
 - Solve LeetCode problems regularly
 - Understand patterns and optimize solutions
