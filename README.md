@@ -17,4 +17,11 @@ I just started solving problems on LeetCode. This repository is meant to **docum
 - Average difficulty: Beginner
 - Language: C
 
+## Solved Problems
+
+| #   | Problem Name       | Difficulty | Link                                                      |
+|-----|------------------|-----------|-----------------------------------------------------------|
+| 231 | Power of Two      | Easy      | [Link](https://leetcode.com/problems/power-of-two/)      |
+| 342 | Power of Four     | Easy      | [Link](https://leetcode.com/problems/power-of-four/)     |
+
 ---
