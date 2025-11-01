@@ -1,7 +1,6 @@
 // Problem: 326. Power of Three
 // Difficulty: Easy
 // Link: https://leetcode.com/problems/power-of-three/
-// Approach: Check if n divides the largest 32-bit power of 3 (3^19 = 1162261467)
 
 bool isPowerOfThree(int n)
 {
