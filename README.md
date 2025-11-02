@@ -20,7 +20,7 @@ I just started solving problems on LeetCode. This repository is meant to **docum
 
 ## Statistics (manual update)
 - Repository started: 2025-11-01
-- Problems solved: 5
+- Problems solved: 6
 - Language: C
 
 ## Links
