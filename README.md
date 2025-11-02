@@ -32,6 +32,7 @@ I just started solving problems on LeetCode. This repository is meant to **docum
   
 | #   | Problem Name       | Difficulty | Link                                                      | Submission Details                                      | Date |
 |-----|------------------|-----------|-----------------------------------------------------------|------------------------------------------------------------|--------------------|
+| 29. | Divide Two Integers      | Medium      | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)      | 994/994, Runtime: 0ms, Memory Usage: 8.3MB  | 2025-11-2  |
 | 50. | Pow(x, n)      | Medium      | [Pow(x, n)](https://leetcode.com/problems/powx-n/)      | 307/307, Runtime: 0ms, Memory Usage: 8MB  | 2025-11-1  |
 | 231. | Power of Two      | Easy      | [Power of Two](https://leetcode.com/problems/power-of-two/)      | 1110/1110, Runtime: 0ms, Memory Usage: 7.9MB  | 2025-11-1  |
 | 258. | Add Digits     | Easy      | [Add Digits](https://leetcode.com/problems/add-digits/)      | 1101/1101, Runtime: 0ms, Memory Usage: 8.6MB  | 2025-11-1  |
