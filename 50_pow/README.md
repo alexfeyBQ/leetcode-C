@@ -13,7 +13,7 @@ We recall:
 
 - If `n` is odd, $$n = 2k + 1$$ and then $$x^n = x^{2k+1} = x \cdot (x^k)^2$$
 
-This reduces the number of multiplications from $$O(n) → O(log(n))$$, making the algorithm efficient even for very large `n`.
+This reduces the number of multiplications, making the algorithm efficient even for very large `n`.
 
 # Approach
 - Case `n = 0`,  return `1`, by definition `x^0 = 1`.
