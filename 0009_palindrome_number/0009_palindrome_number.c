@@ -1,3 +1,7 @@
+// Problem: 9. Palindrome Number
+// Difficulty: Easy
+// Link: https://leetcode.com/problems/palindrome-number/
+
 bool isPalindrome(int x)
 {
     if (x < 0 || (x % 10 == 0 && x != 0)) return false;
