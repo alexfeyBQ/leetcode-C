@@ -1,4 +1,4 @@
-**29. Divide Two Integers - Using Bit Manipulation and Doubling Method in C**
+**29. Divide Two Integers - Doubling in C**
 
 # Intuition
 To divide two integers without using multiplication, division, or modulo operators, we can leverage **bit manipulation and doubling**:  
