@@ -32,7 +32,7 @@ I just started solving problems on LeetCode. This repository is meant to **docum
   
 | #   | Problem Name       | Difficulty | Link                                                      | Submission Details                                      | Date |
 |-----|------------------|----------------|-----------------------------------------------------------|------------------------------------------------------------|--------------------|
-| 3. | Palindrome Number      | 🔵 Easy           | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)      | 11511/11511, Runtime: 0ms, Memory Usage: 8.1MB  | 2025-11-2  |
+| 9. | Palindrome Number      | 🔵 Easy           | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)      | 11511/11511, Runtime: 0ms, Memory Usage: 8.1MB  | 2025-11-2  |
 | 29. | Divide Two Integers      | 🟡​ Med.           | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)      | 994/994, Runtime: 0ms, Memory Usage: 8.3MB  | 2025-11-2  |
 | 50. | Pow(x, n)      | 🟡​ Med.           | [Pow(x, n)](https://leetcode.com/problems/powx-n/)      | 307/307, Runtime: 0ms, Memory Usage: 8MB  | 2025-11-1  |
 | 231. | Power of Two      | 🔵 Easy           | [Power of Two](https://leetcode.com/problems/power-of-two/)      | 1110/1110, Runtime: 0ms, Memory Usage: 7.9MB  | 2025-11-1  |
