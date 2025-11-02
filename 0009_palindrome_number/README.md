@@ -3,8 +3,6 @@
 ## Intuition
 A **palindrome number** reads the same backward and forward, such as `121` or `1331`.  
 Reversing the entire number may cause integer overflow and is unnecessary — we only need to reverse **half** of the digits and compare.  
-
-### Key ideas:
 - Negative numbers can never be palindromes (`-121 ≠ 121-`).
 - Any number ending with `0` (except `0` itself) cannot be a palindrome because leading zeros are not allowed (`10 ≠ 01`).
 - By reversing only half of the number, we can check for symmetry efficiently without using extra memory or converting to a string.
