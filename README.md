@@ -5,7 +5,7 @@ Welcome to my LeetCode repository!
 I just started solving problems on LeetCode. This repository is meant to **document my solutions in C**, track my progress, and improve my problem-solving skills.
 
 ## Repository Structure
-- `.c` files: each file contains a solution to a LeetCode problem
+- `.c` files: each file contains a solution to a LeetCode problem, accompanied by a README that explains the **intuition**, **approach**, and the **method** used in the solution.
 
 ## Notes on the `.c` files
 - Each `.c` file contains **only the solution function(s)** for the problem.
