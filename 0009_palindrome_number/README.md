@@ -13,9 +13,8 @@ Reversing the entire number may cause integer overflow and is unnecessary — we
 - `→ compare left and reversed right halves → 12 == 12 → true`
   
 ## Approach
-**Edge cases**:  
-   - If `x` is negative → not a palindrome.  
-   - If `x` ends with `0` but is not `0` → not a palindrome.  
+- If `x` is negative → not a palindrome.  
+- If `x` ends with `0` but is not `0` → not a palindrome.  
 **Reverse only half** of the digits:  
    - While the original half `x` is greater than the reversed half `reversed`:  
      - Add the last digit of `x` to `reversed`.  
@@ -23,8 +22,6 @@ Reversing the entire number may cause integer overflow and is unnecessary — we
 **Compare halves**:  
    - For even-length numbers, `x == reversed`.  
    - For odd-length numbers, ignore the middle digit → `x == reversed / 10`.  
-
-This method runs in **O(log₁₀(n))** time since we process half of the digits, and it uses **O(1)** space.
 
 ## Code
 ```c
