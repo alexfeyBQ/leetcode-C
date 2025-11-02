@@ -7,7 +7,7 @@ To determine if a number `n` is a power of two, we can repeatedly divide it by 2
 - If `n` is a power of two, dividing it by 2 repeatedly should eventually reduce it to 1.  
 - If at any step `n` is not divisible by 2, it cannot be a power of two.  
 
-Example: 
+**Example:** 
 - `16 → 16/2=8 → 8/2=4 → 4/2=2 → 2/2=1 → true`
 - `18 → 18/2=9 → 9 is not divisible by 2 → false`
 
