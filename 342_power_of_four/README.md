@@ -7,7 +7,7 @@ To check whether a number `n` is a power of four, we can repeatedly divide it by
 - If `n` is a power of four, dividing it by 4 repeatedly should eventually reduce it to 1.  
 - If at any step `n` is not divisible by 4, it cannot be a power of four.  
 
-Example:  
+**Example:**  
 - `16 → 16/4=4 → 4/4=1 → true`  
 - `64 → 64/4=16 → 16/4=4 → 4/4=1 → true`  
 - `8 → 8/4=2 → 2 is not divisible by 4 → false`
