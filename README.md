@@ -20,7 +20,7 @@ I just started solving problems on LeetCode. This repository is meant to **docum
 
 ## Statistics (manual update)
 - Repository started: 2025-11-01
-- Problems solved: 7
+- Problems solved: 8
 - Language: C
 
 ## Links
@@ -33,6 +33,7 @@ I just started solving problems on LeetCode. This repository is meant to **docum
 | #   | Problem Name       | Difficulty | Link                                                      | Submission Details                                      | Date |
 |-----|------------------|----------------|-----------------------------------------------------------|------------------------------------------------------------|--------------------|
 | 9. | Palindrome Number      | 🔵 Easy           | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)      | 11511/11511, Runtime: 0ms, Memory Usage: 8.1MB  | 2025-11-2  |
+| 13. | Roman to Integer      | 🔵 Easy           | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)      | 3999/3999, Runtime: 0ms, Memory Usage: 10.46MB  | 2025-11-4  |
 | 29. | Divide Two Integers      | 🟡​ Med.           | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)      | 994/994, Runtime: 0ms, Memory Usage: 8.3MB  | 2025-11-2  |
 | 50. | Pow(x, n)      | 🟡​ Med.           | [Pow(x, n)](https://leetcode.com/problems/powx-n/)      | 307/307, Runtime: 0ms, Memory Usage: 8MB  | 2025-11-1  |
 | 231. | Power of Two      | 🔵 Easy           | [Power of Two](https://leetcode.com/problems/power-of-two/)      | 1110/1110, Runtime: 0ms, Memory Usage: 7.9MB  | 2025-11-1  |
