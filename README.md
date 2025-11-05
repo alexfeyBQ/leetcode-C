@@ -36,6 +36,7 @@ I just started solving problems on LeetCode. This repository is meant to **docum
 | 13. | Roman to Integer      | 🔵 Easy           | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)      | 3999/3999, Runtime: 0ms, Memory Usage: 10.46MB  | 2025-11-4  |
 | 29. | Divide Two Integers      | 🟡​ Med.           | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)      | 994/994, Runtime: 0ms, Memory Usage: 8.3MB  | 2025-11-2  |
 | 50. | Pow(x, n)      | 🟡​ Med.           | [Pow(x, n)](https://leetcode.com/problems/powx-n/)      | 307/307, Runtime: 0ms, Memory Usage: 8MB  | 2025-11-1  |
+| 69. | Sqrt(x)      | 🔵 Easy           | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)      | 1019/1019, Runtime: 16ms, Memory Usage: 8.5MB  | 2025-11-5  |
 | 231. | Power of Two      | 🔵 Easy           | [Power of Two](https://leetcode.com/problems/power-of-two/)      | 1110/1110, Runtime: 0ms, Memory Usage: 7.9MB  | 2025-11-1  |
 | 258. | Add Digits     | 🔵 Easy           | [Add Digits](https://leetcode.com/problems/add-digits/)      | 1101/1101, Runtime: 0ms, Memory Usage: 8.6MB  | 2025-11-1  |
 | 326. | Power of Three     | 🔵 Easy           | [Power of Three](https://leetcode.com/problems/power-of-three/)     | 21040/21040, Runtime: 0ms, Memory Usage: 8.5MB   | 2025-11-1  |
