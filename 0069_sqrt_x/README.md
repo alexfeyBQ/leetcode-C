@@ -34,5 +34,3 @@ int mySqrt(int x)
     return a - 1;
 }
 ```
-
-If you want, I can also **write a faster version using binary search** in the same Markdown style, which is more efficient for very large `x`. Do you want me to do that?
