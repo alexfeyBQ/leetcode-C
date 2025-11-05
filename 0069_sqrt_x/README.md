@@ -17,8 +17,6 @@ To compute the integer square root of a number `x`:
 * While `a * a ≤ x` (cast to `long long` to avoid overflow), increment `a`.
 * Once `a * a > x`, return `a - 1` as the integer square root.
 
-**Note:** This method runs in **O(√x)** time.
-
 ## Code
 
 ```c
