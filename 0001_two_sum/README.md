@@ -28,7 +28,7 @@ This guarantees finding the first valid pair that satisfies the equation.
 ```c
 int* twoSum(int* nums, int numsSize, int target, int* returnSize)
 {
-    int* answer = malloc(2 * sizeof(int)); // Allocate memory for result
+    int* answer = malloc(2 * sizeof(int));
 
     for (int i = 0; i < numsSize; i++)
     {
@@ -39,10 +39,10 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize)
                 answer[0] = i;
                 answer[1] = j;
                 *returnSize = 2;
-                return answer; // Return indices as soon as match found
+                return answer;
             }
         }
     }
-    return NULL; // No valid pair found
+    return NULL;
 }
 ```
