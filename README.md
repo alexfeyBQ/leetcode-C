@@ -20,7 +20,7 @@ I just started solving problems on LeetCode. This repository is meant to **docum
 
 ## Statistics (manual update)
 - Repository started: 2025-11-01
-- Problems solved: 11
+- Problems solved: 12
 - Language: C
 
 ## Links
@@ -35,6 +35,7 @@ I just started solving problems on LeetCode. This repository is meant to **docum
 | 1. | Two Sum      | 🔵 Easy           | [Two Sum](https://leetcode.com/problems/two-sum/)      | 63/63, Runtime: 99ms, Memory Usage: 8.5MB  | 2025-11-6  |
 | 7. | Reverse Integer      | 🟡​ Med.           | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)      | 1045/1045, Runtime: 0ms, Memory Usage: 8.5MB  | 2025-11-7  |
 | 9. | Palindrome Number      | 🔵 Easy           | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)      | 11511/11511, Runtime: 0ms, Memory Usage: 8.1MB  | 2025-11-2  |
+| 12. | Integer to Roman      | 🟡​ Med.          | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)      | 3999/3999, Runtime: 0ms, Memory Usage: 9.16MB  | 2025-11-8  |
 | 13. | Roman to Integer      | 🔵 Easy           | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)      | 3999/3999, Runtime: 0ms, Memory Usage: 10.46MB  | 2025-11-4  |
 | 29. | Divide Two Integers      | 🟡​ Med.           | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)      | 994/994, Runtime: 0ms, Memory Usage: 8.3MB  | 2025-11-2  |
 | 50. | Pow(x, n)      | 🟡​ Med.           | [Pow(x, n)](https://leetcode.com/problems/powx-n/)      | 307/307, Runtime: 0ms, Memory Usage: 8MB  | 2025-11-1  |
