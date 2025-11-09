@@ -20,7 +20,7 @@ I just started solving problems on LeetCode. This repository is meant to **docum
 
 ## Statistics (manual update)
 - Repository started: 2025-11-01
-- Problems solved: 12
+- Problems solved: 13
 - Language: C
 
 ## Links
@@ -44,5 +44,6 @@ I just started solving problems on LeetCode. This repository is meant to **docum
 | 258. | Add Digits     | 🔵 Easy           | [Add Digits](https://leetcode.com/problems/add-digits/)      | 1101/1101, Runtime: 0ms, Memory Usage: 8.6MB  | 2025-11-1  |
 | 326. | Power of Three     | 🔵 Easy           | [Power of Three](https://leetcode.com/problems/power-of-three/)     | 21040/21040, Runtime: 0ms, Memory Usage: 8.5MB   | 2025-11-1  |
 | 342. | Power of Four     | 🔵 Easy           | [Power of Four](https://leetcode.com/problems/power-of-four/)     | 1063/1063, Runtime: 0ms, Memory Usage: 8MB   | 2025-11-1  |
+| 2169. | Count Operations to Obtain Zero     | 🔵 Easy           | [Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/)     | 161/161, Runtime: 0ms, Memory Usage: 7.84MB   | 2025-11-9  |
 
 ---
